@@ -22,4 +22,7 @@ Vulnerabilities Database
 
 
 http://www.securityfocus.com/vulnerabilities
+
 https://null-byte.wonderhowto.com/how-to/hack-like-pro-find-almost-every-known-vulnerability-exploit-out-there-0147820/
+
+https://null-byte.wonderhowto.com/how-to/mr-robot-hacks/
